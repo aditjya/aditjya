@@ -1,5 +1,8 @@
 <h1>Hi, I'm Adithya <h1>
 
+Hey There,
+I am a Full Stack Developer Currently enrolled in a course by FrontLinesMedia
+
 <h2>👨‍💻 My Projects:</h2>
 
 - Nothing for now
