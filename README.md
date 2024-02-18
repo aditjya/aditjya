@@ -5,8 +5,8 @@ I am a Full Stack Developer Currently enrolled in a course by FrontLinesMedia
 
 <h2>👨‍💻 My Projects:</h2>
 
-1.Designed an AlarmApplication using Java
-2.Wroking on a TaskManagementApi
+<p>1.Designed an AlarmApplication using Java<br>
+2.Wroking on a TaskManagementApi</p>
 
 <h2>Certification</h2>
 
