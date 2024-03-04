@@ -1,7 +1,6 @@
 <h1>Hi, I'm Adithya <h1>
 
-Hey There,
-I am a Full Stack Developer.
+An Aspiring Full Stack Developer with Hands on Java Expertise
 
 <h2>👨‍💻 My Projects:</h2>
 
