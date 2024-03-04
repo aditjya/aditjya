@@ -1,12 +1,12 @@
 <h1>Hi, I'm Adithya <h1>
 
 Hey There,
-I am a Full Stack Developer Currently enrolled in a course by FrontLinesMedia
+I am a Full Stack Developer.
 
 <h2>👨‍💻 My Projects:</h2>
 
-<p>1.Designed an AlarmApplication using Java<br>
-2.Wroking on a TaskManagementApi</p>
+<p>1.Designed a Task Manager<br>
+2.A Simple Banking Application</p>
 
 <h2>Certification</h2>
 
