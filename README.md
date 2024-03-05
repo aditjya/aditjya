@@ -18,5 +18,5 @@ konetiadithya@gmail.com
 
 
 
-[linkedin]: https://linkedin.com/in/adithyaj19
+[linkedin]: https://linkedin.com/in/aditjya
 
